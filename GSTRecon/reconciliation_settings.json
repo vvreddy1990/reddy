@@ -1,0 +1,12 @@
+{
+  "tax_amount_tolerance": 5.0,
+  "date_tolerance_days": 1,
+  "name_preference": "Legal Name",
+  "currency_format": "INR",
+  "decimal_precision": 2,
+  "case_sensitive_names": false,
+  "similarity_threshold": 80.0,
+  "group_tax_tolerance": 50.0,
+  "enable_advanced_matching": true,
+  "auto_apply_settings": true
+}
